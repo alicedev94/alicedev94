@@ -7,16 +7,5 @@
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
 </p>
 
-name: Featured star list languages
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.starlists.languages.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_starlists: yes
-  plugin_starlists_languages: yes
-  plugin_starlists_limit_languages: 8
-  plugin_starlists_limit_repositories: 0
-  plugin_starlists_only: Awesome
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicedev94&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyx990803&show_icons=true&theme=e.g)
